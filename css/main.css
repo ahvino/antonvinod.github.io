@@ -87,4 +87,12 @@ body {
     height: 250px;
     width: auto;
 }
+#logo_3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 125px;
+    width: auto;
+}
+
 }
