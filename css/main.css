@@ -79,3 +79,12 @@ body {
     height: 30px;
     width: auto;
 }
+
+#logo_2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 250px;
+    width: auto;
+}
+}
